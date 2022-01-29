@@ -1,5 +1,5 @@
 # BigChainCryptoProfile
-A Blockchain Database Implementation
+Java Application POC for a Blockchain Database 
 
 This project is an implementation of BigChainDB (www.bigchaindb.com) blockchain database's libraries. BigchainDB allows developers and enterprise to deploy blockchain proof-of-concepts, platforms and applications with a blockchain database, supporting a wide range of industries and use cases.
 
